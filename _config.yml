@@ -1,0 +1,8 @@
+# For repository named 'myblog' (appears at akabarki76.github.io/myblog)
+url: "https://akabarki76.github.io"
+baseurl: "/myblog"  # ← This is crucial!
+
+# OR if you want akabarki76.github.io directly:
+# (requires renaming repo to 'akabarki76.github.io')
+url: "https://akabarki76.github.io"
+# Remove baseurl completely
